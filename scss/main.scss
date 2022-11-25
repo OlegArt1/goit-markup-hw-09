@@ -1,0 +1,20 @@
+@import './base/reset';
+@import './base/common';
+
+@import './components/container';
+@import './components/title';
+@import './components/modals';
+@import './components/menu';
+
+@import './utils/mixins';
+@import './utils/placeholders';
+@import './utils/variables.scss';
+
+@import './layouts/header';
+@import './layouts/services';
+@import './layouts/description';
+@import './layouts/gallery';
+@import './layouts/team';
+@import './layouts/group';
+@import './layouts/products';
+@import './layouts/footer';
